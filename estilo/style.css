@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+}
+
+.menu ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 50%;
+}
+
+ul,a{
+    list-style-type: none;
+    overflow: hidden;
+    
+}
+.container{
+    display: flex;
+    width: 100%
+}
+
+.introdução{
+    background-color: black;
+    width: 50%;
+    
+} */
+.imagem{ max-width: 200px; max-height: 150px; }
+
